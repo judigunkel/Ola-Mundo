@@ -1,2 +1,3 @@
-# Ola-Mundo
- Primeiro Repositório
+# Olá, Mundo!
+ Primeiro Repositório.
+ Criado durante o curso de Git e GitHub do Guanabara.
